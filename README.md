@@ -23,4 +23,10 @@ npm run build --report
 ```
 ## Mock Server
 ### Json-Server 
+``` bash
+# install dependencies
+npm install
+# serve at localhost:3001
+npm run start
+```
 For a detailed explanation on how things work, check out the [guide](http://vuejs-templates.github.io/webpack/) and [docs for vue-loader](http://vuejs.github.io/vue-loader).
