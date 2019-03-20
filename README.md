@@ -26,6 +26,7 @@ npm run build --report
 ``` bash
 # install dependencies
 npm install
+
 # serve at localhost:3001
 npm run start
 ```
